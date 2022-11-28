@@ -5,6 +5,8 @@ public class program
         int a = 12;
         int b = 32;
         int sum = a + b;
+        int multi = a * b;
+        System.out.println("the milti :"+ multi);
         System.out.println("the sum is :"+sum);
     }
 }
